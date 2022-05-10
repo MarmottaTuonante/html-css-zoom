@@ -105,6 +105,10 @@ footer {
   margin-right: 13px;
 }
 
+.foot-nav i {
+  margin-left: 7px;
+}
+
 .end-meeting {
   display: flex;
   justify-content: center;
